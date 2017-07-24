@@ -1,0 +1,6 @@
+C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\bin\Debug\DMC_Project.exe.config
+C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\bin\Debug\DMC_Project.exe
+C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\bin\Debug\DMC_Project.pdb
+C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.exe
+C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.pdb
+C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.csprojResolveAssemblyReference.cache
