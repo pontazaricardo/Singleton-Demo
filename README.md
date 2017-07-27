@@ -5,8 +5,8 @@ This is an example of a DMC that allows multiple users to access a centralized d
 ## Design patterns
 
 For this project:
-1. A (https://en.wikipedia.org/wiki/Singleton_pattern)[singleton] dessign pattern was used, so any users using it can access the same instance of the DMC. 
-2. A (https://en.wikipedia.org/wiki/Double-checked_locking)[double-checked locking] dessign pattern was implemented in the data structure holding the data in order to make the DMC multithread and thread-safe.
+1. A (singleton)[https://en.wikipedia.org/wiki/Singleton_pattern] dessign pattern was used, so any users using it can access the same instance of the DMC. 
+2. A (double-checked locking[https://en.wikipedia.org/wiki/Double-checked_locking]) dessign pattern was implemented in the data structure holding the data in order to make the DMC multithread and thread-safe.
 
 ## Usage
 
