@@ -5,8 +5,8 @@ C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\obj\Debug\DMC_Proje
 C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.pdb
 C:\VisualStudioWorkspace\singleton\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.csprojResolveAssemblyReference.cache
 C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\bin\Debug\DMC_Project.exe.config
-C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.exe
-C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.pdb
 C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\bin\Debug\DMC_Project.exe
 C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\bin\Debug\DMC_Project.pdb
 C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.csprojResolveAssemblyReference.cache
+C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.exe
+C:\Users\liwuen\Documents\GitHub\Singleton-Demo\SingletonDemo\DMC_Project\obj\Debug\DMC_Project.pdb
