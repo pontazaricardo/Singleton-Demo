@@ -12,7 +12,7 @@ namespace DMC_Project
         {
             Console.WriteLine("This in an example of a DMC designed using the Singleton dessign pattern.");
 
-            Parallel.Invoke(
+            Parallel.Invoke( // We will create two threads that will access the same instance of the DMC (where each thread creates their own instantiation of the object).
                 () => FirstMethod(),
                 () => SecondMethod());
 
