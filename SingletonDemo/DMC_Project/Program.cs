@@ -10,6 +10,8 @@ namespace DMC_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This in an example of a DMC designed using the Singleton dessign pattern.");
+
             Parallel.Invoke(
                 () => FirstMethod(),
                 () => SecondMethod());
