@@ -34,4 +34,4 @@ Because per type we use a *List* structure. We can either scan the entire list o
 
 ## Results during execution time
 
-
+Inside the **Main** file we have the following code:
