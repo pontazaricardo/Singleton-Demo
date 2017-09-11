@@ -30,4 +30,4 @@ We implemented a dictionary that looks for the type of objects the DMC gets, and
 
 Because per type we use a *List* structure. We can either scan the entire list or perform a smart search. Scanning the list will require *O(n)* time, so in order to speed the search, when inserting, we insert the object in a sorted way, so we can perform a *binary search* when looking for the object. This way allows us to reduce the search time to *O(ln n)*.
 
-
+![demo2](/images/pic07.png)
