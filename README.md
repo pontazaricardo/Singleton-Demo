@@ -42,4 +42,4 @@ Parallel.Invoke( // We will create two threads that will access the same instanc
 	() => SecondMethod()
 );
 ```
-This code will create two threads (one per method).
+This code will create two threads (one per method). Because the access of the threads to the methods will be done in parallel, the output might change every time you run it, but it will reach the same final solution at the end.
