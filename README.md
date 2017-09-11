@@ -35,3 +35,10 @@ Because per type we use a *List* structure. We can either scan the entire list o
 ## Results during execution time
 
 Inside the **Main** file we have the following code:
+
+```c#
+Parallel.Invoke( // We will create two threads that will access the same instance of the DMC (where each thread creates their own instantiation of the object).
+	() => FirstMethod(),
+	() => SecondMethod()
+);
+```
