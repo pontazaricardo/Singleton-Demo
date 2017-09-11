@@ -2,6 +2,8 @@
 
 This is an example of a DMC that allows multiple users to access a centralized data management entity in order to insert new objects or update the existing ones. 
 
+![demo](/images/demo.gif)
+
 ## Design patterns
 
 For this project:
